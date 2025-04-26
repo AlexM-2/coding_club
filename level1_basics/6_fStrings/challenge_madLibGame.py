@@ -1,0 +1,10 @@
+noun1 = input("Enter a noun: ")
+noun2 = input("Enter another noun: ")
+adjective1 = input("Enter an adjective: ")
+adjective2 = input("Enter another adjective: ")
+verb1 = input("Enter a verb: ")
+verb2 = input("Enter another verb: ")
+adverb1 = input("Enter an adverb: ")
+adverb2 = input("Enter another adverb: ")
+
+print(f"Once upon a time, there was a {adjective1} {noun1} who lived in\na {adjective2} {noun2}. The {noun1} loved to {verb1} and {verb2} {adverb2}.\nOne day the {noun1} went on an adventure and {verb2} {adverb2}.")
