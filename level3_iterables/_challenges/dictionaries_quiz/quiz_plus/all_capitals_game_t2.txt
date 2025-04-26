@@ -1,0 +1,201 @@
+hard,,Afghanistan	Kabul
+hard,,Albania	Tirana, Tirane
+hard,,Algeria	Algiers
+hard,,Andorra	Andorra la Vella
+hard,,Angola	Luanda
+hard,,Antigua and Barbuda	Saint John's
+medium,,Argentina	Buenos Aires
+hard,,Armenia	Yerevan
+hard,,Australia	Canberra
+hard,,Austria	Vienna
+hard,,Azerbaijan	Baku
+hard,,Bahamas	Nassau
+hard,,Bahrain	Manama
+hard,,Bangladesh	Dhaka
+hard,,Barbados	Bridgetown
+hard,,Belarus	Minsk
+medium,,Belgium	Brussels
+hard,,Belize	Belmopan
+hard,,Benin	Porto Novo, Cotonou
+hard,,Bhutan	Thimphu
+hard,,Bolivia	La Paz, Sucre
+hard,,Bosnia and Herzegovina	Sarajevo
+hard,,Botswana	Gaborone
+medium,,Brazil	Brasilia
+hard,,Brunei	Bandar Seri Begawan
+hard,,Bulgaria	Sofia
+hard,,Burkina Faso	Ouagadougou
+hard,,Burundi	Gitega, Bujumbura
+hard,,Cambodia	Phnom Penh
+hard,,Cameroon	Yaounde
+easy,,Canada	Ottawa
+hard,,Cape Verde	Praia
+hard,,Central African Republic	Bangui
+hard,,Chad	N'Djamena
+medium,,Chile	Santiago
+easy,,China	Beijing
+hard,,Colombia	Bogota
+hard,,Comoros	Moroni
+hard,,Democratic Republic of the Congo, Congo	Kinshasa, Brazzaville
+hard,,Republic of the Congo, Congo	Brazzaville, Kinshasa
+medium,,Costa Rica	San Jose
+hard,,Côte d'Ivoire, Ivory Coast	Yamoussoukro, Abidjan
+hard,,Croatia	Zagreb
+hard,,Cuba	Havana
+hard,,Cyprus	Nicosia
+medium,,Czech Republic, Czechia	Prague
+medium,,Denmark	Copenhagen
+hard,,Djibouti	Djibouti
+hard,,Dominica	Roseau
+hard,,Dominican Republic	Santo Domingo
+hard,,East Timor	Dili
+hard,,Ecuador	Quito
+medium,,Egypt	Cairo
+hard,,El Salvador	San Salvador
+easy,,England	London
+hard,,Equatorial Guinea	Malabo
+hard,,Eritrea	Asmara
+hard,,Estonia	Tallinn
+hard,,Eswatini, Swaziland	Mbabane, Lobamba
+medium,,Ethiopia	Addis Ababa
+hard,,Federated States of Micronesia, Micronesia	Palikir
+hard,,Fiji	Suva
+hard,,Finland	Helsinki
+easy,,France	Paris
+hard,,Gabon	Libreville
+hard,,Gambia	Banjul
+hard,,Georgia	Tbilisi
+easy,,Germany	Berlin
+hard,,Ghana	Accra
+easy,,Greece	Athens
+hard,,Grenada	Saint George's
+hard,,Guatemala	Guatemala City
+hard,,Guinea	Conakry
+hard,,Guinea-Bissau	Bissau
+hard,,Guyana	Georgetown
+hard,,Haiti	Port au Prince
+hard,,Honduras	Tegucigalpa
+medium,,Hungary	Budapest
+medium,,Iceland	Reykjavik
+easy,,India	New Delhi
+medium,,Indonesia	Jakarta, Nusantara
+hard,,Iran	Tehran
+hard,,Iraq	Baghdad
+easy,,Ireland	Dublin
+medium,,Israel	Jerusalem, Tel Aviv
+easy,,Italy	Rome
+medium,,Jamaica	Kingston
+easy,,Japan	Tokyo
+hard,,Jordan	Amman
+hard,,Kazakhstan	Astana, Nur-Sultan
+medium,,Kenya	Nairobi
+hard,,Kiribati	Tarawa Atoll
+hard,,Kosovo	Pristina
+hard,,Kuwait	Kuwait City
+hard,,Kyrgyzstan	Bishkek
+hard,,Laos	Vientiane
+hard,,Latvia	Riga
+hard,,Lebanon	Beirut
+hard,,Lesotho	Maseru
+hard,,Liberia	Monrovia
+hard,,Libya	Tripoli
+hard,,Liechtenstein	Vaduz
+hard,,Lithuania	Vilnius
+medium,,Luxembourg	Luxembourg
+medium,,Madagascar	Antananarivo
+hard,,Malawi	Lilongwe
+hard,,Malaysia	Kuala Lumpur, Putrajaya
+hard,,Maldives	Male
+hard,,Mali	Bamako
+hard,,Malta	Valletta
+hard,,Marshall Islands	Majuro
+hard,,Mauritania	Nouakchott
+hard,,Mauritius	Port Louis
+easy,,Mexico	Mexico City
+hard,,Moldova	Chisinau
+medium,,Monaco	Monaco
+medium,,Mongolia	Ulaanbaatar
+hard,,Montenegro	Podgorica
+hard,,Morocco	Rabat
+hard,,Mozambique	Maputo
+hard,,Myanmar, Burma	Nay Pyi Taw
+hard,,Namibia	Windhoek
+hard,,Nauru	No official capital
+hard,,Nepal	Kathmandu
+easy,,Netherlands	Amsterdam, The Hague
+medium,,New Zealand	Wellington
+hard,,Nicaragua	Managua
+hard,,Niger	Niamey
+hard,,Nigeria	Abuja
+medium,,North Korea	Pyongyang
+hard,,North Macedonia, Macedonia, Republic of North Macedonia	Skopje
+easy,,Northern Ireland	Belfast
+medium,,Norway	Oslo
+hard,,Oman	Muscat
+medium,,Pakistan	Islamabad
+hard,,Palau	Melekeok
+hard,,Palestine	Jerusalem, Ramallah
+hard,,Panama	Panama City
+hard,,Papua New Guinea	Port Moresby
+hard,,Paraguay	Asuncion
+medium,,Peru	Lima
+medium,,Philippines	Manila
+medium,,Poland	Warsaw
+easy,,Portugal	Lisbon
+hard,,Qatar	Doha
+hard,,Romania	Bucharest
+easy,,Russia	Moscow
+hard,,Rwanda	Kigali
+hard,,Saint Kitts and Nevis	Basseterre
+hard,,Saint Lucia	Castries
+hard,,Saint Vincent and the Grenadines, Saint Vincent, SVG	Kingstown
+hard,,Samoa	Apia
+hard,,San Marino	San Marino
+hard,,Sao Tome and Principe	Sao Tome
+medium,,Saudi Arabia	Riyadh
+easy,,Scotland	Edinburgh
+hard,,Senegal	Dakar
+hard,,Serbia	Belgrade
+hard,,Seychelles	Victoria
+hard,,Sierra Leone	Freetown
+medium,,Singapore	Singapore
+hard,,Slovakia	Bratislava
+hard,,Slovenia	Ljubljana
+hard,,Solomon Islands	Honiara
+hard,,Somalia	Mogadishu
+hard,,South Africa	Pretoria, Bloemfontein, Cape Town
+medium,,South Korea	Seoul
+hard,,South Sudan	Juba
+easy,,Spain	Madrid
+hard,,Sri Lanka	Sri Jayawardenapura Kotte, Colombo
+hard,,Sudan	Khartoum
+hard,,Suriname	Paramaribo
+medium,,Sweden	Stockholm
+medium,,Switzerland	Bern
+hard,,Syria	Damascus
+hard,,Taiwan, Republic of China, ROC	Taipei
+hard,,Tajikistan	Dushanbe
+hard,,Tanzania	Dodoma, Dar es Salaam
+medium,,Thailand	Bangkok
+hard,,Togo	Lome
+hard,,Tonga	Nuku'alofa
+hard,,Trinidad and Tobago	Port of Spain
+hard,,Tunisia	Tunis
+medium,,Türkiye, Turkey	Ankara
+hard,,Turkmenistan	Ashgabat
+hard,,Tuvalu	Funafuti, Vaiaku
+hard,,Uganda	Kampala
+medium,,Ukraine	Kyiv, Kiev
+hard,,United Arab Emirates	Abu Dhabi
+easy,,United Kingdom	London
+easy,,United States	Washington D.C., Washington DC, Washington
+hard,,Uruguay	Montevideo
+hard,,Uzbekistan	Tashkent
+hard,,Vanuatu	Port Vila
+hard,,Vatican City	Vatican City
+hard,,Venezuela	Caracas
+hard,,Vietnam	Hanoi
+easy,,Wales	Cardiff
+hard,,Yemen	Sana'a, Aden
+hard,,Zambia	Lusaka
+hard,,Zimbabwe	Harare
