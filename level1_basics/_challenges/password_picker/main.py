@@ -15,14 +15,14 @@ if whichPasswordPicker == "b" or whichPasswordPicker == "B":
   print("Loading Basic Password Picker...")
   time.sleep(3)
   print(" ")
-  import basicPasswordPicker
+  import password_picker
 elif whichPasswordPicker == "a" or whichPasswordPicker == "A":
   specialPasswordAttempt = input("Special password: ")
   if specialPasswordAttempt == specialPassword:
     print("Correct password. Loading advanced password picker...")
     time.sleep(4)
     print(" ")
-    import ultimatePasswordPicker
+    import password_picker_plus
   else:
     print("Incorrect password. Exiting...")
     print()
